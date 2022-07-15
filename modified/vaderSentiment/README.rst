@@ -1,3 +1,4 @@
+Main Credit to https://github.com/cjhutto/vaderSentiment
 ====================================
 VADER-Sentiment-Analysis
 ====================================
