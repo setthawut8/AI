@@ -1,0 +1,1 @@
+this folder contain all codes related to voice2text or speech recogniation. hope this might help you somehow :).
